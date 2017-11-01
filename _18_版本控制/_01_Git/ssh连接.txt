@@ -1,0 +1,6 @@
+ssh连接：
+ssh git@192.168.31.4
+ 
+ssh发送：
+scp LocalFiles/LoRa.rar git@192.168.31.4:stm32
+

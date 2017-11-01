@@ -1,0 +1,8 @@
+
+
+
+频率 cnt*采样频率/每个周期的采样点数					
+幅度 sqrt((Real * Real) + (Imag * Imag))*2/采样点数;	
+相位 atan2(Imag, Real)*180.0/PI;			
+
+

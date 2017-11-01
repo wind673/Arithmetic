@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<8uftp>
+<Settings>
+<Item name="Tool Normal Start" type="numeric">0</Item>
+<Item name="Last Server Host" type="string">ckupdate.boiot.cn</Item>
+<Item name="Last Server Port" type="numeric">21</Item>
+<Item name="Last Server User" type="string">ckupdate</Item>
+<Item name="Last Server dont save pass" type="numeric">0</Item>
+<Item name="Last server name" type="string">ÐÂ FTP Õ¾µã</Item>
+<Item name="Last Server Pass" type="string">034037059049042080070086</Item>
+<Item name="Last Server Firewall Bypass" type="numeric">0</Item>
+<Item name="Last Server Path" type="string">256 0 </Item>
+<Item name="Last Server Type" type="numeric">256</Item>
+<Item name="Last Server transfer mode" type="numeric">1</Item>
+<Item name="Default Folder" type="string">C:\Users\WindRisesI\Documents\</Item>
+<Item name="Last Window Size" type="string">0 2060 185 3111 801</Item>
+<Item name="Last Splitter Pos" type="string">360 107 477 547 476</Item>
+<Item name="Pasv" type="numeric">1</Item>
+</Settings>
+<Sites>
+<Site Name="ÐÂ FTP Õ¾µã" Host="ckupdate.boiot.cn" Port="21" User="ckupdate" RemoteDir="" LocalDir="" Pass="034037059049042080070086" Logontype="1" FWBypass="0" DontSavePass="0" ServerType="0" PasvMode="1" TimeZoneOffset="0" TimeZoneOffsetMinutes="0" Comments="³Â¿­µÄFTPÕ¾µã" DefaultSite="1"/>
+</Sites>
+<RecentServers>
+<Server Host="006.3vftp.com" Port="21" User="a7232799" Pass="126115125124118119008" FirewallBypass="0" DontRememberPass="0" ServerType="256" Path="" PasvMode="0" TimeZoneOffset="0"/>
+</RecentServers>
+<TransferQueue/>
+</8uftp>

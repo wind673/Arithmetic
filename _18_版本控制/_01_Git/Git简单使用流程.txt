@@ -1,0 +1,45 @@
+@后期更新版本：
+	<本地>
+	*0.cd到本地仓路径		：cd X:/_13_Git/_01_GainStrong/stm32/lora
+	1.克隆远程仓到本地		：git clone git@192.168.31.4:stm32/lora		
+	2.更新本地内容到远程仓	：git push
+	3.更新远程仓到本地		：git pull
+	
+	
+@常用指令：
+	<本地>
+	1.删除远程提交：git remote rm origin 
+	
+	
+@第一次使用：
+	<本地>
+	1.生成公钥：ssh-keygen -t rsa
+	2.复制id_rsa.pub的内容，绑定密钥。
+
+	<远程>
+	3.建立裸仓：git init --bare lora
+
+	<本地>
+	4.内容提交到暂存区：git add . 
+	5.暂存区提交到本地仓：git commit -am "更新的内容"
+	6.提交到远程仓
+		1） git remote add origin git@192.168.31.4:stm32/lora
+		2）	git push -u origin master
+
+	7.远程获取：git clone git@192.168.31.4:stm32/lora		
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
